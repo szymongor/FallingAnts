@@ -1,8 +1,5 @@
 package model
 
-
-var directions = [...]string{"l","r"}
-
 type Ant struct {
   direction string
   position float32
